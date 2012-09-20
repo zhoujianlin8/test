@@ -1,0 +1,28 @@
+@import url(main1.css);
+ul {
+    font-family: "宋体";
+    line-height: 1.5;
+    font-weight: bold;
+}
+
+li {
+    position: absolute;
+}
+p{
+    color: #000;
+}
+a[title="baidu"]{
+    color: red;
+}
+p[class="ok"]{
+    color: blue;
+}
+a:link{
+    color: #f5f5dc;
+}
+a:visited{
+    color: yellow;
+}
+a:active{
+    color: #fff5ee;
+}
